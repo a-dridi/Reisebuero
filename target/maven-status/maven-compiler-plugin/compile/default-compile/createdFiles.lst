@@ -1,0 +1,13 @@
+at\adridi\reisebuero\main\TestdatenSpeichern.class
+at\adridi\reisebuero\validator\EmailValidator.class
+at\adridi\reisebuero\db\DAO.class
+at\adridi\reisebuero\controller\RegistrationController.class
+at\adridi\reisebuero\model\Reisetyp.class
+at\adridi\reisebuero\model\Reiseveranstaltung.class
+at\adridi\reisebuero\controller\AuthentifizierungController.class
+at\adridi\reisebuero\controller\VeranstaltungenController.class
+at\adridi\reisebuero\converter\InteressenConverter.class
+at\adridi\reisebuero\listener\SessionPhaseListener.class
+at\adridi\reisebuero\controller\BenutzerController.class
+at\adridi\reisebuero\model\Benutzer.class
+at\adridi\reisebuero\db\HibernateUtil.class
