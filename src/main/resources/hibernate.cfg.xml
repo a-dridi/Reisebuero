@@ -9,8 +9,8 @@
     <property name="hibernate.connection.username">USERNAME</property>
     <property name="hibernate.connection.password">PASS</property>
     <property name="hibernate.hbm2ddl.auto">update</property>
-    <mapping class="at.htlstp.dridi.hue1_aufgabe2.model.Benutzer"/>
-    <mapping class="at.htlstp.dridi.hue1_aufgabe2.model.Reisetyp"/>
-    <mapping class="at.htlstp.dridi.hue1_aufgabe2.model.Reiseveranstaltung"/>
+    <mapping class="at.adridi.reisebuero.model.Benutzer"/>
+    <mapping class="at.adridi.reisebuero.model.Reisetyp"/>
+    <mapping class="at.adridi.reisebuero.model.Reiseveranstaltung"/>
   </session-factory>
 </hibernate-configuration>
